@@ -1,0 +1,12 @@
+{
+  "name": "IBS",
+  "displayName": "IBS",
+  "expo": {
+    "name": "IBS",
+    "slug": "IBS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
